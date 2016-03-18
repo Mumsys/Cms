@@ -1,0 +1,19 @@
+# Authors
+
+## Contributed features
+
+<Developer>
+    <Feature Description>
+
+
+## Implemented suggestions
+
+<Name/User>
+    <Feature Description>
+
+
+## Core developers
+
+Florian Blasel
+
+
