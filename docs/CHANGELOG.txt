@@ -1,0 +1,24 @@
+# Timeline
+
+- Alpha version:                                                tba
+- Code freeze:                                                  tba
+    - write and push existig tests first
+    - find bugs and fix them
+
+- Announce first pre release,                                   tba
+    - create preRelease branch/tag
+
+- Bug hunting time. ask the people                              tba
+
+- Release (master/stable)                                       tba
+    - init staging areas:
+        - add testing and unstable branches
+    - new features to stage?
+
+- Stable version: x.x.x as release 1                            tba
+
+
+# Changes of Mumsys/Cms
+
+2016-01-01
+    - Init Cms
