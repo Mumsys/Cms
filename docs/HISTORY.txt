@@ -1,0 +1,22 @@
+# History
+
+The Mumsys project
+
+MUMSYS stands for Multi User Managment System. Altn. "Mother System" (c) 2002 - 2016, now
+
+In that time an admin CMS system to:
+
+    Create admin pages for new buissness tasks,
+    Huge lists of data
+    Handling processes on the server side for audio and video tasks
+    Shop related admin tasks and inventory control because then it was mostly used for a music distribution.
+
+The Cms, Library and Programs are new parts of the single project. 
+A rework beginning in that time and now going to be free!
+
+Parts of the Mumsys project:
+    Cms: The Cms part is a skeleton for an application to be used in shell or web enviroment.
+    Programs: The Programs are our applications to be used inside the cms.
+    Library: The components to be used to make this work
+
+If you like it, use it, feel free to contribute :-)
