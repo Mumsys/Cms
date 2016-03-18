@@ -1,0 +1,23 @@
+# TODOs for Multirename
+
+## Reported issues
+
+<status%> <issue#id> <desc>
+
+- [00%] #1 someting happend
+
+
+# New Features
+
+## Creative zone
+
+- [ ] Config files ...
+
+- [ ] Using presets ...
+
+- [ ] Improve the (test)output
+
+- [33%] cleanup code
+
+
+
