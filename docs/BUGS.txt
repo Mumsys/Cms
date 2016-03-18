@@ -1,0 +1,11 @@
+# Bugs
+
+One or some and hopefully none! 
+
+Your help would be great to find bugs or add features and improvements.
+
+
+# Known bugs
+
+<date>
+    <desc>
